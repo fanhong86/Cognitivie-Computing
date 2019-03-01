@@ -1,1 +1,1 @@
-# Cognitivie-Computing
+# Cognitive-Computing
